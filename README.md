@@ -31,8 +31,5 @@ python main.py
 
 - Next, enter the number of images you want to generate
 <img src="https://i.ibb.co/wcnCLqB/main.png" alt="main">
-<pre>
-python main.py
-</pre>
 
 - The generated images will appear in the  <code>images</code> folder<br>
