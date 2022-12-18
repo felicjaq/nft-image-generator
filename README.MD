@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-The program generates visually interesting abstract images as many as you need.<br>
+The program generates visually interesting abstract images as many as you need<br>
 
 <div style="display: flex;">
 <img style="margin: 10px" src="https://i.ibb.co/K2XXCkW/nft-5.png" width=90 height=90 alt="nft-image">
